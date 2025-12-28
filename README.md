@@ -1,4 +1,4 @@
-### Predicting News Popularity
+### competition1:Predicting News Popularity
 In this competition, you are provided with a supervised dataset consisting of the raw content and binary popularity of news articles. What you need to do is to learn a function that is able to predict the popularity of an unseen news article.
 
 ### competition2:Object Detection & Localization
